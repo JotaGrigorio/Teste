@@ -1,0 +1,7 @@
+C:\Users\J. Gregorio\Desktop\Boleto\bin\Debug\Boleto.exe.config
+C:\Users\J. Gregorio\Desktop\Boleto\bin\Debug\Boleto.exe
+C:\Users\J. Gregorio\Desktop\Boleto\bin\Debug\Boleto.pdb
+C:\Users\J. Gregorio\Desktop\Boleto\obj\Debug\Boleto.csprojAssemblyReference.cache
+C:\Users\J. Gregorio\Desktop\Boleto\obj\Debug\Boleto.csproj.CoreCompileInputs.cache
+C:\Users\J. Gregorio\Desktop\Boleto\obj\Debug\Boleto.exe
+C:\Users\J. Gregorio\Desktop\Boleto\obj\Debug\Boleto.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boleto", "Boleto.csproj", "{AF496FC9-9F89-4A21-A906-785BA1BD3CD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF496FC9-9F89-4A21-A906-785BA1BD3CD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF496FC9-9F89-4A21-A906-785BA1BD3CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF496FC9-9F89-4A21-A906-785BA1BD3CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF496FC9-9F89-4A21-A906-785BA1BD3CD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EF220E5-2FD4-4E88-89FE-110AAC9F2774}
+	EndGlobalSection
+EndGlobal
